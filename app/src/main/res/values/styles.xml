@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.EditText.Default" parent="Widget.AppCompat.EditText">
+        <item name="android:paddingHorizontal">8dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:layout_marginHorizontal">16dp</item>
+        <item name="background">@drawable/round_corners</item>
+        <item name="android:layout_marginTop">16dp</item>
+    </style>
+</resources>

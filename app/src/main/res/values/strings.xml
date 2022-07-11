@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">and3_hw1</string>
+    <string name="enter_email_address">Enter email address</string>
+    <string name="enter_email_s_theme">Enter email\'s theme</string>
+    <string name="enter_theme">Enter theme</string>
+    <string name="enter_text">Enter text</string>
+    <string name="send">Send</string>
+    <string name="next">Next</string>
+</resources>
